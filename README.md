@@ -5,7 +5,7 @@ Criamos conexões para demonstrar que há outras maneiras de criar e consumir, s
 <p><b> Objetivos:</b></p>
 
 <p>Estimular o reuso de materia prima descartada.</p>
-<p>Incentivar por materiais biodegradáveis. </p>
+<p>Incentivar o uso de biodegradáveis. </p>
 <p>Equalizar a diferença de valor de produtos sustentáveis. </p>
 
 <p><b>Nosso Ideal:</b></p>
