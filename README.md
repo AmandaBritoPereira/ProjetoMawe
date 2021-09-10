@@ -1,16 +1,10 @@
-## Mawé
+## [Mawé](https://wonderful-nobel-c2fd52.netlify.app)
 
-Fazemos conexões para demonstrar que há outras maneiras de criar e consumir, sem gerar grandes impactos a natureza.
+[Site](https://wonderful-nobel-c2fd52.netlify.app)
 
-<p><b> Objetivos:</b></p>
+[Sobre nós](https://wonderful-nobel-c2fd52.netlify.app/#/sobre-nos) 
 
-<p>Estimular o reuso de materia prima descartada.</p>
-<p>Incentivar o uso de materiais biodegradáveis. </p>
-<p>Equalizar a diferença de valor de produtos sustentáveis. </p>
-
-<p><b>Nosso Ideal:</b></p>
-
-Como uma maneira de reagir ao descarte de materiais que se acumulam na atmosfera. A ideia do e-commerce, é incentivar empresas a criar soluções e o meio para apresentar aos usuários; classificamos os produtos que tem o maior índice sustentável, e elevamos empresas ecologicamente corretas. Dessa forma, a qualidade do produto aumenta e o mundo muda junto.
+[Link para testes na aplicação back-end](https://ecomawe.herokuapp.com/swagger-ui/)
 
 ## 🛠️ Construído com
 <p>Frameworks:</p>
@@ -19,7 +13,7 @@ Como uma maneira de reagir ao descarte de materiais que se acumulam na atmosfera
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Biblioteca utiliza para facilitar a escrita HTML/CSS/JS
 * [Angular](https://angular.io/cli) - Estruturar a aplicação
-* [Node.Js] (https://nodejs.org/pt-br/docs/)
+* [Node.Js](https://nodejs.org/pt-br/docs/)
 
 <p>Linguagens:</p>
 
@@ -49,8 +43,5 @@ Para reimplementar o projeto Angular, após baixado, instale a pasta node_module
 
 ## 🎁 Expressões de gratidão
 
-* Liza 📢
-* Luis
-* Boaz
-* Lucas 🤓
-* *Vitor Ribeiro* - [ZzRotivZz](https://github.com/ZzRotivZz) 🍺
+* *Vitor Ribeiro* - [ZzRotivZz](https://github.com/ZzRotivZz)
+* Liza, Luis, Boaz, Lucas
